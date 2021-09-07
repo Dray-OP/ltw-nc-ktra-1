@@ -11,17 +11,8 @@ namespace baitap1
 {
 
 
-    public partial class WebForm1
+    public partial class LoginUser
     {
-
-        /// <summary>
-        /// formLogin control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm formLogin;
 
         /// <summary>
         /// lblmsg control.
@@ -42,13 +33,13 @@ namespace baitap1
         protected global::System.Web.UI.WebControls.TextBox txt_UserName;
 
         /// <summary>
-        /// RequiredFieldValidator1 control.
+        /// RequiredFieldValidator2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator1;
+        protected global::System.Web.UI.WebControls.RequiredFieldValidator RequiredFieldValidator2;
 
         /// <summary>
         /// txt_Password control.
